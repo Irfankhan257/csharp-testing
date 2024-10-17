@@ -20,7 +20,7 @@ namespace AddNumbersApp
             Console.WriteLine($"The quotient is: {quotient}");
         }
 
-        // Function to add two numbers
+       
         public static int AddTwoNumbers(int num1, int num2)
         {
             return num1 + num2;
