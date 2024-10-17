@@ -31,7 +31,7 @@ namespace AddNumbersApp.Tests
             int result = Program.SubtractTwoNumbers(num1, num2);
 
             // Assert
-            Assert.Equal(5, result);
+            Assert.Equal(7, result);
         }
 
         [Fact]
